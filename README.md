@@ -29,13 +29,14 @@ A fitness companion app built with Flutter. Browse exercises by muscle group, vi
 
 ## Getting Started
 
-1. Clone the repo
+**Prerequisites:** [Flutter SDK](https://flutter.dev/docs/get-started/install) and an Android emulator or physical device.
+
    ```bash
-     git clone https://github.com/Eco6x/PumpGuide.git
-     cd PumpGuide/pumpguide
-     flutter pub get
-     flutter run
-     ```
+   git clone https://github.com/Eco6x/PumpGuide.git
+   cd PumpGuide/pumpguide
+   flutter pub get
+   flutter run
+   ```
 ## Next Updates
 Will be overhauling the UI completely in the next few weeks, yk life takes us places sometimes and we cant be there lol.
 anyways, Stay tuned!
